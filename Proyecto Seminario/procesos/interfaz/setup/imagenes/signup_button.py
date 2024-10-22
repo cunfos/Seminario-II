@@ -1,0 +1,1 @@
+signup_button_image_path: str = 'C:/Users/pignu/Desktop/Universidad/Seminario II/Proyecto Seminario/procesos/interfaz/setup/imagenes/signup_button.png'
